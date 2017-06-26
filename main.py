@@ -4,9 +4,6 @@ import misc, config, crossnet
 data_dir  = "data/"
 data_list = data_dir + "data.csv"
 
-default_config = config.default_config
-size_dict      = config.SizeContainer()
-
 def main(_):
   
   gpu_options = tf.GPUOptions(allow_growth=True)
