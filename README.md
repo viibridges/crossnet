@@ -20,7 +20,11 @@ Deploying:
 ```bash
 $ python main.py --is_training=False
 ```
+Data
+------------
+This repo only contains some example data for training, the whole dataset can be found in [this link](https://drive.google.com/open?id=0BzvmHzyo_zCAX3I4VG1mWnhmcGc).
+You would have to edit the dataset path in main.py in order to use it.
 
 Note
 ------------
-We plan to release the whole dataset and evaluation code later.
+We plan to release evaluation code soon.
