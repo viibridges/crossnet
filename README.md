@@ -1,7 +1,7 @@
 Crossnet, a cross-view supervised learning solution
 ========
 
-This code is a tensorflow implementation of this paper, [Predicting Ground-Level Scene Layout from Aerial Imagery](https://arxiv.org/pdf/1612.02709.pdf).
+This code is a tensorflow implementation of this paper, [Predicting Ground-Level Scene Layout from Aerial Imagery](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhai_Predicting_Ground-Level_Scene_CVPR_2017_paper.pdf).
 
 And you are welcome to visit our [Project Page](http://cs.uky.edu/~ted/research/crossview/)
 
